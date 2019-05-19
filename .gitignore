@@ -1,0 +1,6 @@
+generate.py
+data.json
+data.txt
+textgenrnn_config.json
+textgenrnn_vocab.json
+/__pycache__
